@@ -1,0 +1,27 @@
+.logo-text {
+  font-size: 24px;
+  font-weight: 645;
+}
+header .nav-link {
+  color: gray;
+  font-size: 16px;
+}
+header .nav-link:hover, .nav-link:focus{
+  color: red;
+}
+header .nav-link:active{
+  color: #ffdb4d;
+}
+input[type = 'search']{
+  border: none;
+}
+.badge-plus{
+  font-size: 14px;
+  font-weight: 500;
+  padding: 7px 7px;
+  background: linear-gradient(101.67deg,#48cce0 7.24%,#505add 34.12%,#be40c0 62.93%,#fba82b 92.22%);;
+}
+header .avatar {
+  border-radius: 38%;
+  background:  linear-gradient(101.67deg,#48cce0 7.24%,#505add 34.12%,#be40c0 62.93%,#fba82b 92.22%);;
+}
